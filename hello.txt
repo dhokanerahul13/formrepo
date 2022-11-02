@@ -1,0 +1,10 @@
+#project from durga
+
+#1)stugrgi
+#2)student feedback
+
+#FORM VALIDATION
+#1)EXPLICITLY BY CLEAN METHOD
+#2 inbuitl  django valodatior
+#3)assigmneet 
+how to check originAL pwd AND REEBTER PWD ARE SMAE OR NOT IN SIGNUPFORM
